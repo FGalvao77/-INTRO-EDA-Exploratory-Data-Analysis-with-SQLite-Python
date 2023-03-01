@@ -1,1 +1,2 @@
-# -INTRO-EDA-Exploratory-Data-Analysis-with-SQLite-Python
+## [INTRO] **EDA** (_Exploratory Data Analysis_) with `SQLite & Python`
+---
